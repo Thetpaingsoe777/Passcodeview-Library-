@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:2:11-49
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:5:3-23:17
+MERGED from [in.arjsna:passcodeview:1.2.1] /home/thetpaing/Downloads/android-passcodeview/passcodeview/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thetpaing/.android/build-cache/6f9f2468b47ab75c10bfc80db155941ca07ccd1d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/thetpaing/.android/build-cache/30f87fcbb59c4ae8b1dcaa60924bc3d10c71d92e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thetpaing/.android/build-cache/594581e125b5bd6dc9f8382474ba35e810d3cab8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thetpaing/.android/build-cache/e724748ab3e769bcb932bb3987a5a5740486ed34/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thetpaing/.android/build-cache/d1c2bb63547dd640b297c2f1e221d8822973d0e7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thetpaing/.android/build-cache/b931e45565677b24581e216c0329c986795c2622/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thetpaing/.android/build-cache/cab0fa0b02b8e82784901ec135590c61b007a68e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thetpaing/.android/build-cache/c8ed9f563f422c4d49235680d0aa71da6ee725b3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/thetpaing/.android/build-cache/5a4f50f2a7bb3c02dab0c664a29ad0de37a5c601/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:8:7-39
+	android:supportsRtl
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:9:7-33
+	android:allowBackup
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:6:7-33
+	android:icon
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:7:7-41
+	android:theme
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:10:7-38
+activity#in.arjsna.passcodeviewsample.MainActivity
+ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:11:5-19:16
+	android:label
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:13:9-41
+	android:name
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:12:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:14:7-18:23
+action#android.intent.action.MAIN
+ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:15:9-60
+	android:name
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:15:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:17:9-68
+	android:name
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:17:19-66
+activity#in.arjsna.passcodeviewsample.LoggedInActivity
+ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:20:5-22:43
+	android:label
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:22:9-41
+	android:name
+		ADDED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml:21:9-41
+uses-sdk
+INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [in.arjsna:passcodeview:1.2.1] /home/thetpaing/Downloads/android-passcodeview/passcodeview/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thetpaing/.android/build-cache/6f9f2468b47ab75c10bfc80db155941ca07ccd1d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/thetpaing/.android/build-cache/30f87fcbb59c4ae8b1dcaa60924bc3d10c71d92e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thetpaing/.android/build-cache/594581e125b5bd6dc9f8382474ba35e810d3cab8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thetpaing/.android/build-cache/e724748ab3e769bcb932bb3987a5a5740486ed34/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thetpaing/.android/build-cache/d1c2bb63547dd640b297c2f1e221d8822973d0e7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thetpaing/.android/build-cache/b931e45565677b24581e216c0329c986795c2622/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thetpaing/.android/build-cache/cab0fa0b02b8e82784901ec135590c61b007a68e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thetpaing/.android/build-cache/c8ed9f563f422c4d49235680d0aa71da6ee725b3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/thetpaing/.android/build-cache/5a4f50f2a7bb3c02dab0c664a29ad0de37a5c601/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/thetpaing/.android/build-cache/6f9f2468b47ab75c10bfc80db155941ca07ccd1d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thetpaing/Downloads/android-passcodeview/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/thetpaing/.android/build-cache/6f9f2468b47ab75c10bfc80db155941ca07ccd1d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/thetpaing/.android/build-cache/30f87fcbb59c4ae8b1dcaa60924bc3d10c71d92e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thetpaing/.android/build-cache/594581e125b5bd6dc9f8382474ba35e810d3cab8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thetpaing/.android/build-cache/e724748ab3e769bcb932bb3987a5a5740486ed34/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thetpaing/.android/build-cache/d1c2bb63547dd640b297c2f1e221d8822973d0e7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thetpaing/.android/build-cache/b931e45565677b24581e216c0329c986795c2622/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thetpaing/.android/build-cache/cab0fa0b02b8e82784901ec135590c61b007a68e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thetpaing/.android/build-cache/c8ed9f563f422c4d49235680d0aa71da6ee725b3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/thetpaing/.android/build-cache/5a4f50f2a7bb3c02dab0c664a29ad0de37a5c601/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/thetpaing/.android/build-cache/6f9f2468b47ab75c10bfc80db155941ca07ccd1d/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/thetpaing/.android/build-cache/6f9f2468b47ab75c10bfc80db155941ca07ccd1d/output/AndroidManifest.xml:26:9-47
